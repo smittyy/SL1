@@ -10,6 +10,8 @@ namespace SoloLearn1
 
             var Bad_Name = "This is a bad Variable";
             int number = 13;
+
+            Console.WriteLine(Bad_Name);
         }
     }
 }
