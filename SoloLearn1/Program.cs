@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace SoloLearn1
 {
@@ -22,6 +23,8 @@ namespace SoloLearn1
 
             var num = "is a string";
             var word = 16;
+
+            const string change = "Can not be changes!";
         }
     }
 }
