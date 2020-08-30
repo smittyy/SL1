@@ -12,6 +12,9 @@ namespace SoloLearn1
             int number = 13;
 
             Console.WriteLine(Bad_Name);
+
+            Console.WriteLine("How are you?");
+            string urDay = Console.ReadLine();
         }
     }
 }
