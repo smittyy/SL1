@@ -29,6 +29,12 @@ namespace SoloLearn1
             int y = 14;
             int x = 5;
             Console.WriteLine(x - y);
+
+            int u = 1;
+            int u += 5;
+            int t = 3;
+            Console.WriteLine(u);
+            Console.WriteLine(++t);
         }
     }
 }
