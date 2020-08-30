@@ -19,6 +19,9 @@ namespace SoloLearn1
             //The next 2 lines will blow your mind
             /*This is a
              multi line comment*/
+
+            var num = "is a string";
+            var word = 16;
         }
     }
 }
