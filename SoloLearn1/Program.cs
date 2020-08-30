@@ -25,6 +25,10 @@ namespace SoloLearn1
             var word = 16;
 
             const string change = "Can not be changes!";
+
+            int y = 14;
+            int x = 5;
+            Console.WriteLine(x - y);
         }
     }
 }
