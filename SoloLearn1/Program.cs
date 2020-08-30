@@ -15,6 +15,10 @@ namespace SoloLearn1
 
             Console.WriteLine("How are you?");
             string urDay = Console.ReadLine();
+
+            //The next 2 lines will blow your mind
+            /*This is a
+             multi line comment*/
         }
     }
 }
