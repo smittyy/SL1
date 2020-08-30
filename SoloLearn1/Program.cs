@@ -6,7 +6,7 @@ namespace SoloLearn1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("So I can write text like this, and it gets printed out!");
 
             var Bad_Name = "This is a bad Variable";
             int number = 13;
